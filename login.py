@@ -15,5 +15,7 @@ num4 = 40
 num5 = 50
 >>>>>>> 3b69cbc6a8f9715fdae235b15a9de8bb93374dde
 
+num = 60
+
 
 
